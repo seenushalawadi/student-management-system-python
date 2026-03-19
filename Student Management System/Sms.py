@@ -88,4 +88,9 @@ while True:
     elif choice == "4":
         delete_student()
 
-    elif choice == "5
+    elif choice == "5":
+        print("Exiting program...")
+        break
+
+    else:
+        print("Invalid choice, please try again")
